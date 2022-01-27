@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Prathyush 👋🏼 🧑🏽‍💻
 
-<!--
-**probablynotnmp/probablynotnmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# UI/UX Designer 
+
+## About Me ✍🏼
+
+I'm an engineering student studying at Jyothi Engineering College Thrissur, currently undergoing a bachelors degree in Artificial Intelligence & Data Science. I really enjoy coding, my language of preference is python.
+
+## My Skills 🥷🏼
+
+- REACT 
+
+- JS
+
+- HTML
+
+- CSS
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablynotnmp&theme=github_dark&show_icons=true)
