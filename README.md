@@ -7,9 +7,7 @@
 
 I'm an engineering student studying at Jyothi Engineering College Thrissur, currently undergoing a bachelors degree in 'Artificial Intelligence & Data Science'. I really enjoy coding, my language of preference is python.
 
-## My Skills 🥷🏼
-
-- REACT 
+## My Skills 🥷🏼 
 
 - JS
 
