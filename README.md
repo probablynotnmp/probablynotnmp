@@ -9,12 +9,13 @@ I'm an engineering student studying at Jyothi Engineering College Thrissur, curr
 
 ## My Skills 🥷🏼 
 
-- JS
+- Figma
+
+- JavaScript
 
 - HTML
 
 - CSS
-
 
 
 
