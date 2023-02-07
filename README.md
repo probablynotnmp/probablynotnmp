@@ -9,7 +9,7 @@ I'm an engineering student studying at Jyothi Engineering College Thrissur, curr
 
 ## My Skills 🥷🏼 
 
-- Figma
+- Python
 
 - JavaScript
 
@@ -17,7 +17,7 @@ I'm an engineering student studying at Jyothi Engineering College Thrissur, curr
 
 - CSS
 
-
+- Excel
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablynotnmp&theme=github_dark&show_icons=true)
