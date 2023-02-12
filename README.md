@@ -24,7 +24,7 @@ I am constantly learning and exploring new concepts and technologies in my field
 - Excel
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablynotnmp&theme=github_dark&show_icons=true)     
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablynotnmp&theme=github_dark&show_icons=true)     ](https://camo.githubusercontent.com/78e4608ed2c804a58dde6be6fb9c13fe03a3f69ed3012470c1cf8979da90f311/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73756469303530266c61796f75743d636f6d70616374267468656d653d7261646963616c)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
