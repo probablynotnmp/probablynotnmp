@@ -13,7 +13,7 @@ I am constantly learning and exploring new concepts and technologies in my field
 
 ## My Skills 🍳
 
-# Technical
+### Technical
 
 - Python
 
@@ -25,7 +25,7 @@ I am constantly learning and exploring new concepts and technologies in my field
 
 - Excel
 
-# Non-Technical
+### Non-Technical
 
 - Leadership
 
