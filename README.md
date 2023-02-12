@@ -11,7 +11,7 @@ One of my favorite aspects of my field of study is coding. I find the process of
 
 I am constantly learning and exploring new concepts and technologies in my field. I am excited about the potential of AI and Data Science to revolutionize industries and create new possibilities. I hope to use my knowledge and skills to make a positive impact on society and create a better future for us all.
 
-## My Skills 🥷🏼 
+## My Skills 🍳
 
 - Python
 
