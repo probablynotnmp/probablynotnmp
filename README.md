@@ -1,5 +1,5 @@
 <p align="center">
-    # Hi, I'm Prathyush 👋🏼 🧑🏻‍💻
+     Hi, I'm Prathyush 👋🏼 🧑🏻‍💻
     </p>
  
 
