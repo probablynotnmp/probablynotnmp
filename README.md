@@ -27,7 +27,7 @@ I am constantly learning and exploring new concepts and technologies in my field
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablynotnmp&show_icons=true&theme=nightowl)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probablynotnmp)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
