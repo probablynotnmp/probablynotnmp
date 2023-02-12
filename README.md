@@ -47,7 +47,6 @@ I am constantly learning and exploring new concepts and technologies in my field
 <br/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=probablynotnmp&show_icons=true&locale=en&theme=nightowl" alt="probablynotnmp" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha2180&theme=nightowl" />
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=probablynotnmp&layout=compact&theme=nightowl">
 </p>
     
