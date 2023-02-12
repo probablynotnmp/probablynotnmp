@@ -23,6 +23,7 @@ I am constantly learning and exploring new concepts and technologies in my field
 
 - Excel
 
+## Stats 📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=probablynotnmp&show_icons=true&theme=nightowl)
     
