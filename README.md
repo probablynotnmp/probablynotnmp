@@ -1,4 +1,7 @@
-# Hi, I'm Prathyush 👋🏼 🧑🏻‍💻
+<p align="center">
+    # Hi, I'm Prathyush 👋🏼 🧑🏻‍💻
+    </p>
+ 
 
 ![Prathyush N m (1)](https://user-images.githubusercontent.com/85440373/151523098-8805ec66-2b25-43d4-acae-fb163d9b513e.png)
 
