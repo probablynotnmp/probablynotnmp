@@ -3,7 +3,7 @@
 ![Prathyush N m (1)](https://user-images.githubusercontent.com/85440373/151523098-8805ec66-2b25-43d4-acae-fb163d9b513e.png)
 
 
-## About Me ✍🏼
+## About Me 🥸
 
 As an engineering student, I am currently pursuing a bachelor's degree in Artificial Intelligence & Data Science at MES College of Engineering Kuttipuram. I have always been fascinated by technology and its ability to transform the world we live in. This is why I chose to pursue a degree in AI and Data Science, as I believe it will provide me with the tools to create innovative solutions that can positively impact society.
 
