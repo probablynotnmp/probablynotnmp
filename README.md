@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I am  Prathyush! 👋🏼🧑🏻‍💻 </h1>
 <h4 align="center">|| Undergrad at MESCE, Artificial Intelligence & Machine Learning Enthusiast ||</h4>
 <h1 align="center">  <a href="https://twitter.com/prathyushnmohan" target="blank"><img src="https://img.shields.io/twitter/follow/prathyushnmohan?logo=twitter&style=for-the-badge" alt="prathyushmohan" /></a> </h1>
-<h1 align="center">  <a href="https://twitter.com/prathyushnmohan" target="blank"><img src="https://www.google.com/
-https://toppng.com/uploads/preview/github-logo-transparent-11659780111lim6tyk2io.png" alt="prathyushmohan" /></a> </h1>
+<h1 align="center">  <a href="https://twitter.com/prathyushnmohan" target="blank"><img src="https://www.google.com/ https://toppng.com/uploads/preview/github-logo-transparent-11659780111lim6tyk2io.png" alt="github-logo-transparent-11659780111lim6tyk2io.png" /></a> </h1>
  
 
 ![Prathyush N m (1)](https://user-images.githubusercontent.com/85440373/151523098-8805ec66-2b25-43d4-acae-fb163d9b513e.png)
