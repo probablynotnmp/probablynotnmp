@@ -13,6 +13,8 @@ I am constantly learning and exploring new concepts and technologies in my field
 
 ## My Skills 🍳
 
+# Technical
+
 - Python
 
 - JavaScript
@@ -22,6 +24,20 @@ I am constantly learning and exploring new concepts and technologies in my field
 - CSS
 
 - Excel
+
+# Non-Technical
+
+- Leadership
+
+- Team Management
+
+- Communication
+
+- Critical Thinking
+
+- Creative Thinking
+
+- Problem Solving
 
 ## Stats 📊
 
