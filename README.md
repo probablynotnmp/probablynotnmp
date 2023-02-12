@@ -7,7 +7,7 @@
 
 ## About Me 👨🏻‍🎓
 
-As an engineering student, I am currently pursuing a bachelor's degree in Artificial Intelligence & Data Science at MES College of Engineering Kuttipuram. I have always been fascinated by technology and its ability to transform the world we live in. This is why I chose to pursue a degree in AI and Data Science, as I believe it will provide me with the tools to create innovative solutions that can positively impact society.
+As an engineering student, I am currently pursuing a bachelor's degree in Artificial Intelligence & Data Science at MES College of Engineering, Kuttippuram. I have always been fascinated by technology and its ability to transform the world we live in. This is why I chose to pursue a degree in AI and Data Science, as I believe it will provide me with the tools to create innovative solutions that can positively impact society.
 
 One of my favorite aspects of my field of study is coding. I find the process of writing code and seeing it come to life incredibly satisfying. Out of all the programming languages I have learned, python is my preferred choice. It is a powerful language with a wide range of applications, making it versatile and useful for a variety of projects.
 
