@@ -1,6 +1,5 @@
-<p align="center">
-     Hi, I'm Prathyush 👋🏼 🧑🏻‍💻
-    </p>
+<h1 align="center">Hey 👋🏼🧑🏻‍💻,I am  Prathyush ! </h1>
+<h4 align="center">Undergrad at MESCE, Artificial Intelligence & Data Science Enthusiast</h4>
  
 
 ![Prathyush N m (1)](https://user-images.githubusercontent.com/85440373/151523098-8805ec66-2b25-43d4-acae-fb163d9b513e.png)
