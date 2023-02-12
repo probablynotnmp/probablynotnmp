@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋🏼🧑🏻‍💻,I am  Prathyush ! </h1>
+<h1 align="center">Hey 👋🏼🧑🏻‍💻, I am  Prathyush! </h1>
 <h4 align="center">Undergrad at MESCE, Artificial Intelligence & Data Science Enthusiast</h4>
  
 
