@@ -8,7 +8,7 @@
 
 
 ## About Me 👨🏻‍🎓
-- 🔭 I’m currently working on **Developing an App**
+- 🔭 I’m currently working on **Developing an App using ML**
 
 - 🌱 I’m currently learning **DevOps**
 
