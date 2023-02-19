@@ -8,10 +8,13 @@
 
 
 ## About Me 👨🏻‍🎓
+- 🔭 I’m currently working on **Developing an App**
 
-As an engineering student, I am currently pursuing a bachelor's degree in Artificial Intelligence & Data Science at MES College of Engineering, Kuttippuram. I have always been fascinated by technology and its ability to transform the world we live in. This is why I chose to pursue a degree in AI and Data Science, as I believe it will provide me with the tools to create innovative solutions that can positively impact society.
+- 🌱 I’m currently learning **DevOps**
 
-I am constantly learning and exploring new concepts and technologies in my field. I am excited about the potential of AI and Data Science to revolutionize industries and create new possibilities. I hope to use my knowledge and skills to make a positive impact on society and create a better future for us all.
+- 💬 Ask me about **Web3.0 , App Development**
+
+- 📫 How to reach me **prathyushnmohn@gmail.com**
 <br/>
 <br/>
 
