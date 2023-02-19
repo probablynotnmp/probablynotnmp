@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Web3.0 , App Development**
+- 💬 Ask me about **Web3.0, App Development**
 
-- 🏫 I go to study at **https://www.mesce.ac.in/home**
+- 🏫 I go to college at **https://www.mesce.ac.in/home**
 
 - 📫 How to reach me **prathyushnmohn@gmail.com**
 <br/>
