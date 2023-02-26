@@ -3,9 +3,6 @@
 <h3 align="center"> Artificial Intelligence & Machine Learning Enthusiast </h3>
 <h1 align="center">  <a href="https://twitter.com/prathyushnmohan" target="blank"><img src="https://img.shields.io/twitter/follow/prathyushnmohan?logo=twitter&style=for-the-badge" alt="prathyushmohan" /></a> </h1>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/3414/1*X_FFeLvsgZ0Q-weKkc_byw.gif">
- 
-
-![Prathyush N m (1)](https://user-images.githubusercontent.com/85440373/151523098-8805ec66-2b25-43d4-acae-fb163d9b513e.png)
 
 
 ## About Me 👨🏻‍🎓
