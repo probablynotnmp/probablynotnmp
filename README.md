@@ -3,7 +3,7 @@
 <h3 align="center"> Artificial Intelligence & Machine Learning Enthusiast </h3>
 <h1 align="center">  <a href="https://twitter.com/prathyushnmohan" target="blank"><img src="https://img.shields.io/twitter/follow/prathyushnmohan?logo=twitter&style=for-the-badge" alt="prathyushmohan" /></a> </h1>
 <h1 align="center">  <a href="https://www.youtube.com/channel/UC7MMc3xAZBlklSBKXIjzgMw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PrathyU_Ush" /></a> </h1>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
+<img align="right" alt="Coding" width="40" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
 
 <br/>
 <br/>
