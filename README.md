@@ -4,7 +4,8 @@
 <h1 align="center">  <a href="https://twitter.com/prathyushnmohan" target="blank"><img src="https://img.shields.io/twitter/follow/prathyushnmohan?logo=twitter&style=for-the-badge" alt="prathyushmohan" /></a> </h1>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
 
-
+<br/>
+<br/>
 ## About Me 👨🏻‍🎓
 - 🔭 I’m currently working on **Developing an App using ML**
 
@@ -15,6 +16,7 @@
 - 🏫 I go to college at **https://www.mesce.ac.in/home**
 
 - 📫 How to reach me **prathyushnmohn@gmail.com**
+<br/>
 <br/>
 <br/>
 <br/>
