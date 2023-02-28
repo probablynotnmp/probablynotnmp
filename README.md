@@ -1,4 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hey, I am  Prathyush! 👋🏼🧑🏻‍💻 </h1>
 <h3 align="center"> Artificial Intelligence & Machine Learning Enthusiast </h3>
 <h1 align="center">  <a href="https://twitter.com/prathyushnmohan" target="blank"><img src="https://img.shields.io/twitter/follow/prathyushnmohan?logo=twitter&style=for-the-badge" alt="prathyushmohan" /></a> </h1>
