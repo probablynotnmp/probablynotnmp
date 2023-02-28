@@ -18,7 +18,7 @@
 
 - 🏫 I go to college at **https://www.mesce.ac.in/home**
 
-- 📫 How to reach me **prathyushnmohn@gmail.com**
+- 📫 How to reach me **contact.prathyushmohan@gmail.com**
 <br/>
 <br/>
 <br/>
