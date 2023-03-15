@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Developing an App using ML**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Big Data**
 
-- 💬 Ask me about **Web3.0, App Development**
+- 💬 Ask me about **Machine Learning, Dev Ops**
 
 - 🏫 I go to college at **https://www.mesce.ac.in/home**
 
