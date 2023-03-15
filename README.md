@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Machine Learning, Dev Ops**
 
-- 🏫 I go to college at **https://www.mesce.ac.in/home**
+- 🏫 I go to college at : **https://www.mesce.ac.in/home**
 
-- 📫 How to reach me **contact.prathyushmohan@gmail.com**
+- 📫 How to reach me : **contact.prathyushmohan@gmail.com**
 <br/>
 <br/>
 <br/>
