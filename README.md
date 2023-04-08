@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Big Data**
 
-- 💬 Ask me about **Machine Learning, Dev Ops**
+- 💬 Ask me about **Machine Learning, NLP**
 
 - 🏫 I go to college at : **https://www.mesce.ac.in/home**
 
