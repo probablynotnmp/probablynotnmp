@@ -34,13 +34,9 @@
 
 <br/>
 <br/>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=probablynotnmp&show_icons=true&locale=en&theme=nightowl" alt="probablynotnmp" />
- </p>
  <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=probablynotnmp&theme=nightowl" />
  <br/>
  <br/>
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=probablynotnmp&layout=compact&theme=nightowl" />
 </p>
     
