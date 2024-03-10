@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I am  Prathyush! 👋🏼🧑🏻‍💻 </h1>
 <h3 align="center"> Artificial Intelligence & Machine Learning Enthusiast </h3>
 <h1 align="center">  <a href="https://twitter.com/prathyushnm" target="blank"><img src="https://img.shields.io/twitter/follow/prathyushnmohan?logo=twitter&style=for-the-badge" alt="prathyushmohan" /></a> </h1>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 
@@ -9,7 +10,7 @@
 
 ## About Me 👨🏻‍🎓
 
-- 🔭 I’m currently working on **Developing an App using ML**
+- 🔭 I’m currently working on **Developing a Project using ML**
 
 - 🌱 I’m currently learning **Big Data**
 
