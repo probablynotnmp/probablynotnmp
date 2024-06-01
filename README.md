@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@prathyushnm/30-nites-of-code)  
   ![@prathyushnm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=prathyushnm)
 
 <br/>
