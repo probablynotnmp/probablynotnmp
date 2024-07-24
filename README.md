@@ -1,15 +1,36 @@
 <h1 align="center">Hey, I am  Prathyush! 👋🏼🧑🏻‍💻 </h1>
 <h3 align="center"> Artificial Intelligence & Machine Learning Engineer </h3>
-<h1 align="center">
-  <a href="https://twitter.com/prathyooosh" target="blank">
-    <img src="https://img.shields.io/twitter/follow/prathyush?logo=x&style=for-the-badge" alt="prathyushmohan" />
-  </a>
-</h1>
-<h1 align="center">
-  <a href="https://pr-portfolio-zeta.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge" alt="prathyushmohan's portfolio" />
-  </a>
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Badges</title>
+    <style>
+        .centered-container {
+            text-align: center;
+        }
+        .badge-container {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="centered-container">
+        <div class="badge-container">
+            <a href="https://twitter.com/prathyooosh" target="blank">
+                <img src="https://img.shields.io/twitter/follow/prathyush?logo=x&style=for-the-badge" alt="prathyushmohan" />
+            </a>
+        </div>
+        <div class="badge-container">
+            <a href="https://pr-portfolio-zeta.vercel.app/" target="blank">
+                <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge" alt="prathyushmohan's portfolio" />
+            </a>
+        </div>
+    </div>
+</body>
+</html>
+
 
 
 
