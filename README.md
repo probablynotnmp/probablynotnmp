@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Developing a Project using ML**
 
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently exploring **Robotics Field**
 
-- 💬 Ask me about **Machine Learning, NLP**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning**
 
 - 🏫 I go to college at : **https://www.mesce.ac.in/home**
 
