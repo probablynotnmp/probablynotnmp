@@ -4,7 +4,9 @@
   <a href="https://twitter.com/prathyooosh" target="blank">
     <img src="https://img.shields.io/twitter/follow/prathyush?logo=x&style=for-the-badge" alt="prathyushmohan" />
   </a>
+  <img align="right" alt="Twitter X Logo" width="50" src="https://cdn.worldvectorlogo.com/logos/x-12.svg" style="background-color: lightgray;">
 </h1>
+
 
 
 
