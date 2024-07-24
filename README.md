@@ -4,6 +4,9 @@
   <a href="https://twitter.com/prathyooosh" target="blank">
     <img src="https://img.shields.io/twitter/follow/prathyush?logo=x&style=for-the-badge" alt="prathyushmohan" />
   </a>
+   <a href="https://pr-portfolio-zeta.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge" alt="prathyushmohan's portfolio" />
+  </a>
 </h1>
 
 
