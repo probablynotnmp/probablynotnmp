@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently exploring the **Robotics Field**
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning**
+- 💬 Ask me about **Python, Machine Learning or Deep Learning**
 
 - 🏫 I go to college at : **https://www.mesce.ac.in/home**
 
