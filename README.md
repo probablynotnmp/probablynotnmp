@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-## My Stats 📊
+## Boring Statistics 📊
 
 <br/>
 <br/>
