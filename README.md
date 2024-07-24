@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Developing a Project using ML**
 
-- 🌱 I’m currently exploring **Robotics Field**
+- 🌱 I’m currently exploring the **Robotics Field**
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning**
 
