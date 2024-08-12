@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-## Boring Statistics 📊
+## Boring numbers 📊
 
 <br/>
 <br/>
