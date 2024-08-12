@@ -15,9 +15,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
-- 🔭 I’m currently working on **Developing a Project using ML**
+- 🔭 I’m currently working on the **Development of Robopark Initiative**
 
-- 🌱 I’m currently exploring the **Robotics Field**
+- 🌱 I’m currently exploring the **IoT Field**
 
 - 💬 Ask me about **Python, Machine Learning or Deep Learning**
 
