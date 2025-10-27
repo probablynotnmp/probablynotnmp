@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python, Machine Learning or Deep Learning**
 
-- 🏫 I went to college at : **https://www.mesce.ac.in/home**
+- 🏫 I went to college at : **https://www.mesce.ac.in**
 
 - 📫 How to reach me : **contact.prathyushmohan@gmail.com**
 
