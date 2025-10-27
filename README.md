@@ -4,7 +4,7 @@
   <a href="https://twitter.com/prathyushnm" target="blank">
     <img src="https://img.shields.io/twitter/follow/prathyush?logo=x&style=for-the-badge" alt="prathyushmohan" />
   </a>
-   <a href="https://prathyushnm.me/" target="blank">
+   <a href="https://prathyush.dev" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge" alt="prathyushmohan's portfolio" />
   </a>
 </h1>
